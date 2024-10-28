@@ -89,12 +89,4 @@ public class Matrix {
         }
     }
 
-//    public void display(int rows){
-//        for (int i = 0; i < rows; i++){
-//            System.out.println(Arrays.toString(matrix[i]));
-//        }
-//
-//
-//    }
-
 
